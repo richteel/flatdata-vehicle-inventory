@@ -18,7 +18,7 @@ do
       "pagestart": 0,
       "filter": {
           "year": [2024, 2025], 
-          "series": ["tacoma", "4runner", "tundra", "rav4", "landcruiser"], 
+          "series": ["camry"], 
           "dealers": ["'$i'"],
           "andfields": ["accessory", "packages", "dealer"]
         }
