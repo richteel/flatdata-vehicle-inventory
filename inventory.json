@@ -16,8 +16,8 @@
     "total_msrp": "30144.0",
     "availability_date": null,
     "total_packages": 2,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
-    "created_at": "2025-03-14 13:00:49"
+    "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2025-03-15 12:57:51"
   },
   {
     "dealer": "45083",
@@ -36,8 +36,8 @@
     "total_msrp": "33044.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Convenience Package",
-    "created_at": "2025-03-14 13:00:49"
+    "packages": "All-Weather Floor Liner Package[installed_msrp], Convenience Package, 50 State Emissions",
+    "created_at": "2025-03-15 12:57:51"
   },
   {
     "dealer": "45083",
@@ -56,8 +56,8 @@
     "total_msrp": "33044.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "50 State Emissions, Special Color, Convenience Package, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2025-03-14 13:00:49"
+    "packages": "Special Color, 50 State Emissions, Convenience Package, All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2025-03-15 12:57:51"
   },
   {
     "dealer": "45083",
@@ -76,8 +76,8 @@
     "total_msrp": "36474.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "Panoramic glass roof with front power tilt/slide moonroof, Special Color, All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
-    "created_at": "2025-03-14 13:00:49"
+    "packages": "Special Color, Panoramic glass roof with front power tilt/slide moonroof, All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
+    "created_at": "2025-03-15 12:57:51"
   },
   {
     "dealer": "45083",
@@ -96,7 +96,7 @@
     "total_msrp": "37674.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Panoramic glass roof with front power tilt/slide moonroof, Special Color",
-    "created_at": "2025-03-14 13:00:49"
+    "packages": "Panoramic glass roof with front power tilt/slide moonroof, All-Weather Floor Liner Package[installed_msrp], Special Color, 50 State Emissions",
+    "created_at": "2025-03-15 12:57:51"
   }
 ]
