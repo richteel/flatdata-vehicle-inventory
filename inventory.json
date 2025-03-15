@@ -17,7 +17,7 @@
     "availability_date": null,
     "total_packages": 2,
     "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2025-03-15 12:57:51"
+    "created_at": "2025-03-15 12:59:07"
   },
   {
     "dealer": "45083",
@@ -37,7 +37,7 @@
     "availability_date": null,
     "total_packages": 3,
     "packages": "All-Weather Floor Liner Package[installed_msrp], Convenience Package, 50 State Emissions",
-    "created_at": "2025-03-15 12:57:51"
+    "created_at": "2025-03-15 12:59:07"
   },
   {
     "dealer": "45083",
@@ -57,7 +57,7 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "Special Color, 50 State Emissions, Convenience Package, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2025-03-15 12:57:51"
+    "created_at": "2025-03-15 12:59:07"
   },
   {
     "dealer": "45083",
@@ -77,7 +77,7 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "Special Color, Panoramic glass roof with front power tilt/slide moonroof, All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
-    "created_at": "2025-03-15 12:57:51"
+    "created_at": "2025-03-15 12:59:07"
   },
   {
     "dealer": "45083",
@@ -97,6 +97,6 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "Panoramic glass roof with front power tilt/slide moonroof, All-Weather Floor Liner Package[installed_msrp], Special Color, 50 State Emissions",
-    "created_at": "2025-03-15 12:57:51"
+    "created_at": "2025-03-15 12:59:07"
   }
 ]
