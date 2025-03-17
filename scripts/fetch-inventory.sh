@@ -19,6 +19,7 @@ do
       "filter": {
           "year": [2024, 2025], 
           "series": ["camry"], 
+          "model": ["xle"], 
           "dealers": ["'$i'"],
           "andfields": ["accessory", "packages", "dealer"]
         }
